@@ -111,6 +111,12 @@ curl -X DELETE http://127.0.0.1:5000/api/users/1
 
 ---
 
+## Author
+
+- Asmi Dagar(Python Intern at Broskies Hub)
+
+---
+
 ## 🔗 License
 
 This project is open-source and available under the [MIT License](LICENSE).
