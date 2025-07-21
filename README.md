@@ -117,6 +117,16 @@ curl -X DELETE http://127.0.0.1:5000/api/users/1
 
 ---
 
+## Snapshots 
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-21 130001" src="https://github.com/user-attachments/assets/1fa6266d-2bd6-4cc2-a696-b5dc9ba4c801" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-21 130202" src="https://github.com/user-attachments/assets/526f405a-cde1-46ab-b854-f3f39b84ab0a" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-21 130346" src="https://github.com/user-attachments/assets/cbb29906-0c3d-4701-b20c-50035e1a69ef" />
+
+---
+
 ## 🔗 License
 
 This project is open-source and available under the [MIT License](LICENSE).
